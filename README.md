@@ -1,7 +1,7 @@
 # System_dla_kina
 Rozwiązanie, dzięki któremu można obsługiwać rezerwacje miejsc w kinie.
 
-Jest to projekt zrobiony na przedmiot programowanie obiektowe w C#. Zawiera między innymi klasy abstrakcyjne oraz dziedziczące, interfejsy, regexy, serializację, obsługę własnych wyjątków, testy jednostkowe.
+Rozwiązanie zawiera między innymi klasy abstrakcyjne oraz dziedziczące, interfejsy, regexy, serializację, obsługę własnych wyjątków, testy jednostkowe, LINQ, wyrażenia lambda.
 
 GUI w formie aplikacji WPF składa się z głównego okna:
 
