@@ -1,5 +1,7 @@
 # System_dla_kina
-Repozytorium, dzięki któremu można obsługiwać rezerwacje miejsc w kinie.
+Rozwiązanie, dzięki któremu można obsługiwać rezerwacje miejsc w kinie.
+
+Jest to projekt zrobiony na przedmiot programowanie obiektowe w C#.
 
 GUI w formie aplikacji WPF składa się z dwóch okien i wygląda następująco. 
 
